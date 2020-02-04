@@ -8,7 +8,9 @@ a,abbr,acronym,address,applet,article,aside,audio,b,big,blockquote,body,canvas,c
 
 html {
   padding: .5em;
+	font-family: "Raleway"
 }
+
 h1 {
   font-size: 1.5em;
   text-align: center;
