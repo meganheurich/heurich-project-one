@@ -18,6 +18,16 @@ h1 {
   color: #DBF0FF;
 }
 
+h2 {
+	font-size: 1.3em;
+	text-align: center;
+  color: #DBF0FF;
+	padding-bottom: 3%;
+}
+
 p {
 	color: #DBF0FF;
+	padding-left: 1%;
+	padding-right: 1%;
+	padding-bottom: 2.5%;
 }
