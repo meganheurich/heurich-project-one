@@ -14,6 +14,7 @@ html {
 
 h1 {
   font-size: 1.5em;
+	font: bold;
   text-align: center;
   color: #DBF0FF;
 }
@@ -22,6 +23,7 @@ h2 {
 	font-size: 1.3em;
 	text-align: center;
   color: #DBF0FF;
+	border-bottom: thin solid;
 	padding-bottom: 3%;
 }
 
@@ -30,4 +32,5 @@ p {
 	padding-left: 1%;
 	padding-right: 1%;
 	padding-bottom: 2.5%;
+	padding-top: 3%;
 }
